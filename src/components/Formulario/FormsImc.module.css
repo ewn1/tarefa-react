@@ -1,0 +1,32 @@
+.containerInput {
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+    align-items: center;
+    padding: 40px
+}
+
+.inputs {
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+    color: #000 bold;
+    border-color: #6246ea;
+    border-radius: 32px;
+}
+
+p {
+    display: block;
+    text-align: center;
+}
+
+.resultado {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 24px;
+}
+
+.form {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+}
