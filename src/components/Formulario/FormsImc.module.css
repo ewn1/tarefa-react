@@ -22,7 +22,12 @@ p {
 
 .resultado {
     padding-top: 20px;
-    padding-bottom: 40px;
+    font-size: 24px;
+}
+
+.classficacao {
+    padding-top: 20px;
+    padding-bottom: 30px;
     font-size: 24px;
 }
 
