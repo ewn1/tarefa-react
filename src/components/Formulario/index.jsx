@@ -27,7 +27,7 @@ const FormsImc = () => {
                     <div>
                         <p className={styles.resultado}>Seu índice de massa corporal é:</p>
                         <p className={styles.resultado}>{imcCalculado.toFixed(2)} kg/m²</p>
-                        <p className={styles.classficacao}>Classificação: {getClassificacao()}</p>
+                        <p className={styles.classificacao}>Classificação: {getClassificacao()}</p>
                     </div>
                 )}
             </form>
